@@ -5,3 +5,13 @@ não esqueça de executar o "npm install" para o node
 recriar a pasta node_modules. OK?
 
 Abraço! ;)
+
+
+Executar App
+npx start expo
+
+Executar API
+node --watch src/index.js
+
+Executar WEB
+npm run dev
